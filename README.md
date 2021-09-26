@@ -6,7 +6,8 @@
     
     + :watermelon:[Linkedin](https://www.linkedin.com/in/nguyenthanhtungg/")
     + :orange:[Twitter](https://twitter.com/TungNguyen469")
-    + :tomato:[Facebook](https://www.facebook.com/nguyentung9t/")
+    + :broccoli:[Facebook](https://www.facebook.com/nguyentung9t/")
+    + :apple:[Youtube](https://www.youtube.com/channel/UCW7yImuRGHEWnh4S07SnzRA")
 
 <!---
 nguyentungg/nguyentungg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
