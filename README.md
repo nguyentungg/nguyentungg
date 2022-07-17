@@ -5,7 +5,7 @@
 - 📫 How to reach me:
     
     + :watermelon: [Linkedin](https://www.linkedin.com/in/nguyenthanhtungg/)
-    + :orange: [Twitter](https://twitter.com/TungNguyen469)
+    + :orange: [Twitter](https://twitter.com/nguyentungggg)
     + :broccoli: [Facebook](https://www.facebook.com/nguyentung9t/)
     + :apple: [Youtube](https://www.youtube.com/channel/UCW7yImuRGHEWnh4S07SnzRA)
     + :blossom: [StackOverflow](https://stackoverflow.com/users/5822104/nguyen-tung) 
