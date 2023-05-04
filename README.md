@@ -3,13 +3,13 @@
 - 🌱 I’m currently learning and improve my skills to become the greatest developer.
 - 💞️ I'm looking to collaborate on websites, apps, and games. So if you have any ideas don't hesitate to contact me. 
 - 📫 How to reach me:
-    
-    + :watermelon: [Linkedin](https://www.linkedin.com/in/nguyenthanhtungg/)
+- 
+    + :gem: [Website](https://nguyentungg.github.io/cv)
+    + :watermelon: [Linkedin](https://www.linkedin.com/in/nguyentungg/)
     + :orange: [Twitter](https://twitter.com/nguyentungggg)
     + :broccoli: [Facebook](https://www.facebook.com/nguyentung9t/)
     + :apple: [Youtube](https://www.youtube.com/channel/UCW7yImuRGHEWnh4S07SnzRA)
-    + :blossom: [StackOverflow](https://stackoverflow.com/users/5822104/nguyen-tung) 
-    + :gem: [Website](https://nguyentungg.github.io/cv)
+    + :blossom: [StackOverflow](https://stackoverflow.com/users/5822104/nguyen-tung)
 
 <!---
 nguyentungg/nguyentungg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
